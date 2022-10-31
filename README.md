@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Projeto RocketPay | Explorer Lab  </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Prencha seu cartão Mastercard ou visa vendo como ele está ficando e vendo ele se adaptando dependendo qual cartão você prencheu (Mastercard ou Visa) . Projeto realizado no Explorer Lab, é .
 </p>
 
 <p align="center">
@@ -20,6 +20,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
+<p align="right">
+  <a href="https://lab-pink.vercel.app/">😉 Confira o projeto online</a>
+ 
+</p>
+
 
 ## 🚀 Tecnologias
 
@@ -31,13 +36,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
 
+
 ## 💻 Projeto
 
 O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+
+
 
 ## :memo: Licença
 
@@ -45,4 +55,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+##### Feito com ♥ by [Gabriel Suptitz](https://www.linkedin.com/in/gabriel-suptitz-51340124a/) com no envento da   🚀[Rocketseat](https://app.rocketseat.com.br/) 
+##### Está em busca de novos conhecimentos? Então  🤝[participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
