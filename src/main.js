@@ -8,6 +8,7 @@ const ccLogo = document.querySelector(".cc-logo span:nth-child(2) img")
 ccBgColor01.setAttribute("fill", "green")
 ccBgColor02.setAttribute("fill", "blue")
 
+//Colors
 function setCardType(type) {
   const colors = {
     visa: ["#436d99", "#2d57f2"],
